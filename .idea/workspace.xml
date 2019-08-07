@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6b1a17d-bc8d-4964-aae5-3b60765e3208" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laraview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/laraview/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laraview/pdf.js" beforeDir="false" afterPath="$PROJECT_DIR$/laraview/pdf.js" afterDir="false" />
     </list>
@@ -23,22 +22,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/laraview/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laraview/pdf.js">
+        <entry file="file://$PROJECT_DIR$/laraview/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="6827" column="3" lean-forward="true" selection-start-line="6827" selection-start-column="3" selection-end-line="6827" selection-end-column="3" />
+            <state relative-caret-position="19">
+              <caret line="76" column="11" lean-forward="true" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#219052#222811#0" expanded="true" />
+                <element signature="e#1716#4401#0" expanded="true" />
+                <element signature="e#1730#2534#0" expanded="true" />
+                <element signature="e#1845#2256#0" expanded="true" />
+                <element signature="e#2602#3542#0" expanded="true" />
+                <element signature="e#2615#3540#0" expanded="true" />
+                <element signature="e#2749#3538#0" expanded="true" />
+                <element signature="e#3742#3774#0" expanded="true" />
+                <element signature="e#4275#4344#0" expanded="true" />
+                <element signature="e#5151#8844#0" expanded="true" />
+                <element signature="e#5341#5720#0" expanded="true" />
+                <element signature="e#5897#6278#0" expanded="true" />
+                <element signature="e#6637#6757#0" expanded="true" />
+                <element signature="e#6770#7410#0" expanded="true" />
+                <element signature="e#7566#7720#0" expanded="true" />
+                <element signature="e#7585#7718#0" expanded="true" />
+                <element signature="e#7657#7716#0" expanded="true" />
+                <element signature="e#8135#8227#0" expanded="true" />
+                <element signature="e#26788#35305#0" expanded="true" />
+                <element signature="e#26801#28282#0" expanded="true" />
+                <element signature="e#28832#29235#0" expanded="true" />
+                <element signature="e#29897#29965#0" expanded="true" />
+                <element signature="e#30592#31163#0" expanded="true" />
+                <element signature="e#30785#31144#0" expanded="true" />
+                <element signature="e#31517#32141#0" expanded="true" />
+                <element signature="e#32180#32807#0" expanded="true" />
+                <element signature="e#33022#33088#0" expanded="true" />
+                <element signature="e#33100#35301#0" expanded="true" />
+                <element signature="e#33534#33587#0" expanded="true" />
+                <element signature="e#34789#35298#0" expanded="true" />
+                <element signature="e#35317#37967#0" expanded="true" />
+                <element signature="e#35768#35843#0" expanded="true" />
+                <element signature="e#36160#36884#0" expanded="true" />
+                <element signature="e#37092#37440#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laraview/pdf.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -55,8 +85,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/laraview/pdf.js" />
         <option value="$PROJECT_DIR$/laraview/index.html" />
+        <option value="$PROJECT_DIR$/laraview/pdf.js" />
       </list>
     </option>
   </component>
@@ -131,18 +161,18 @@
       <option name="presentableId" value="Default" />
       <updated>1565132229984</updated>
       <workItem from="1565132232035" duration="19000" />
-      <workItem from="1565136328578" duration="1008000" />
+      <workItem from="1565136328578" duration="1108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1027000" />
+    <option name="totallyTimeSpent" value="1127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -155,7 +185,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -172,18 +202,49 @@
         <state relative-caret-position="-229" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laraview/pdf.js">
+    <entry file="file://$PROJECT_DIR$/laraview/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="6827" column="3" lean-forward="true" selection-start-line="6827" selection-start-column="3" selection-end-line="6827" selection-end-column="3" />
+        <state relative-caret-position="19">
+          <caret line="76" column="11" lean-forward="true" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#219052#222811#0" expanded="true" />
+            <element signature="e#1716#4401#0" expanded="true" />
+            <element signature="e#1730#2534#0" expanded="true" />
+            <element signature="e#1845#2256#0" expanded="true" />
+            <element signature="e#2602#3542#0" expanded="true" />
+            <element signature="e#2615#3540#0" expanded="true" />
+            <element signature="e#2749#3538#0" expanded="true" />
+            <element signature="e#3742#3774#0" expanded="true" />
+            <element signature="e#4275#4344#0" expanded="true" />
+            <element signature="e#5151#8844#0" expanded="true" />
+            <element signature="e#5341#5720#0" expanded="true" />
+            <element signature="e#5897#6278#0" expanded="true" />
+            <element signature="e#6637#6757#0" expanded="true" />
+            <element signature="e#6770#7410#0" expanded="true" />
+            <element signature="e#7566#7720#0" expanded="true" />
+            <element signature="e#7585#7718#0" expanded="true" />
+            <element signature="e#7657#7716#0" expanded="true" />
+            <element signature="e#8135#8227#0" expanded="true" />
+            <element signature="e#26788#35305#0" expanded="true" />
+            <element signature="e#26801#28282#0" expanded="true" />
+            <element signature="e#28832#29235#0" expanded="true" />
+            <element signature="e#29897#29965#0" expanded="true" />
+            <element signature="e#30592#31163#0" expanded="true" />
+            <element signature="e#30785#31144#0" expanded="true" />
+            <element signature="e#31517#32141#0" expanded="true" />
+            <element signature="e#32180#32807#0" expanded="true" />
+            <element signature="e#33022#33088#0" expanded="true" />
+            <element signature="e#33100#35301#0" expanded="true" />
+            <element signature="e#33534#33587#0" expanded="true" />
+            <element signature="e#34789#35298#0" expanded="true" />
+            <element signature="e#35317#37967#0" expanded="true" />
+            <element signature="e#35768#35843#0" expanded="true" />
+            <element signature="e#36160#36884#0" expanded="true" />
+            <element signature="e#37092#37440#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laraview/index.html">
+    <entry file="file://$PROJECT_DIR$/laraview/pdf.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
