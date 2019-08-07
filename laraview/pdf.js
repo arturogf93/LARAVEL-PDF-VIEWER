@@ -6818,7 +6818,7 @@ var AnnotationUtils = (function AnnotationUtilsClosure() {
       }, false);
     }
 
-    content.appendChild(title);
+    // content.appendChild(title);
     content.appendChild(text);
     contentWrapper.appendChild(content);
     container.appendChild(image);
